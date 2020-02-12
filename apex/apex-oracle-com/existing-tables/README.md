@@ -2,7 +2,7 @@
 
 ## Creating an App based on Existing Tables for apex.oracle.com
 
-### Overview
+## Overview
 
 This lab walks you through creating an application based on existing tables in your Oracle Database. Go from zero to hero in a ridiculously short period of time!
 
@@ -19,7 +19,7 @@ This lab walks you through creating an application based on existing tables in y
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for apex.oracle.com](1-sign-up-apex) | 5 min |
+| 1 | [Signing up for apex.oracle.com](1-sign-up-apex.md) | 5 min |
 | 2 | [Installing Sample Tables](2-installing-sample-tables.md) | 5 min |
 | 3 | [Creating the Application](3-create-app.md) | 20 min |
 | 4 | [Regenerating the App](4-regenerate-app.md) | 5 min |

@@ -2,7 +2,7 @@
 
 ## Building a Proof-of-Concept for Oracle Autonomous Cloud Services
 
-### Overview
+## Overview
 This lab starts with a napkin design of data structures we would
 like to use for a proof-of-concept. Using Quick SQL you will quickly
 define the data structures and utilize various table and column
@@ -22,7 +22,7 @@ components to improve the initial app.
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp) | 5 min |
+| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp.md) | 5 min |
 | 2 | [Defining New Data Structures](2-using-quick-sql.md) | 15 min |
 | 3 | [Creating the Application](3-create-app.md) | 5 min |
 | 4 | [Regenerating the Application](4-regen-app.md) | 5 min |
