@@ -14,8 +14,8 @@ If you plan to register for Autonomous Database please select from the labs belo
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Building an App from a Spreadsheet](/autonomous/spreadsheet) | 60 min |
-| 2 | [Building an App on Existing Tables](/autonomous/existing-tables) | 60 min |
+| 1 | [Building an App from a Spreadsheet](./autonomous/spreadsheet) | 60 min |
+| 2 | [Building an App on Existing Tables](/labs/autonomous/existing-tables) | 60 min |
 | 3 | [Building a Proof-of-Concept](/autonomous/proof-of-concept) | 60 min |
 | 4 | [Building an App using REST Web Sources](/autonomous/rest-web-source) | 60 min |
 | 5 | [Building an App using a Remote Data Source](/autonomous/remote-data-source) | 45 min |
