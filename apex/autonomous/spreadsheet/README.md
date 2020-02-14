@@ -1,6 +1,6 @@
 # Oracle APEX Hands-On Lab
 
-## Creating an App based on Existing Tables for Oracle Autonomous Cloud Service
+## Building an App from a Spreadsheet  for for Oracle Autonomous Cloud Service
 
 ## Overview
 
