@@ -197,11 +197,6 @@ Alternatively, you could go to SQL Workshop > RESTful Services and REST enabled 
 
     ![](images/2/go-restful.png)
 
-2. You may be presented with the RESTful Service Options page.      
-    If so, click **ORDS Based RESTful Services**.
-
-    ![](images/2/go-ords.png)
-
 3. In the ORDS RESTful Services page, expand **Modules**, expand **emp.rest**, and then expand **hol/**.        
     Click on **GET**
     

@@ -31,7 +31,7 @@ handler for both the EMP and DEPT tables. You have already created a Web Source 
     - Web Source Type - select **ORACLE REST Data Services**
     - Name - enter **REST DEPT Source**
     - URL Endpoint - enter the REST URI for the dept.rest handler
-{Similar to https://apex.oracle.com/pls/apex/{your_workspace}/**dept**/hol/ }
+{Similar to https://{cloud\_url}/ords/{your_workspace}/**dept**/hol/ }
     
     Click **Next**.
 
