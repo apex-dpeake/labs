@@ -95,11 +95,11 @@ When you click on a calendar entry then it shows event details. It would be far 
     ![](images/5/updated-final.png)
 
 
-## Summary
+### Summary
 
 This completes Module 4. You now know how to create an application by uploading a file, enhancing the page using runtime environment and page designer, and also linking pages to enhance the application.
 
-## **Learn More** - *Useful Links*
+### **Learn More** - *Useful Links*
 
 - APEX on Autonomous  https://apex.oracle.com/autonomous
 - APEX Collateral  http://apex.oracle.com
