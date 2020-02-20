@@ -19,7 +19,7 @@ In the future, rather than emailing spreadsheets around to gather information, y
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp.md) | 5 min |
+| 1 | [Signing up for an APEX Workspace](1-sign-up-apex.md) | 5 min |
 | 2 | [Creating an App from a Spreadsheet](2-creating-an-app-from-a-spreadsheet.md) | 5 min |
 | 3 | [Improving the Faceted Search](3-improving-the-faceted-search.md) | 10 min |
 | 4 | [Improving the Report and Form](4-improving-the-report-and-form.md) | 20 min |

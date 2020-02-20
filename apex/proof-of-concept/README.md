@@ -22,7 +22,7 @@ components to improve the initial app.
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp.md) | 5 min |
+| 1 | [Signing up for an APEX Workspace](1-sign-up-apex.md) | 5 min |
 | 2 | [Defining New Data Structures](2-using-quick-sql.md) | 15 min |
 | 3 | [Creating the Application](3-create-app.md) | 5 min |
 | 4 | [Regenerating the Application](4-regen-app.md) | 5 min |

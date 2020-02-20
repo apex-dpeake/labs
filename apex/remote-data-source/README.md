@@ -19,7 +19,7 @@ The data used is the Big Mac Index from the Economist, which uses the price of M
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp.md) | 5 min |
+| 1 | [Signing up for an APEX Workspace](1-sign-up-apex.md) | 5 min |
 | 2 | [Creating the Table](2-create-table.md) | 10 min |
 | 3 | [Populating the Table](3-populating-table.md) | 5 min |
 | 4 | [Improving the Report](4-improving-report.md) | 15 min |

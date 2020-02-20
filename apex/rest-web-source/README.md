@@ -16,7 +16,7 @@ This lab REST enables database objects, and then uses those REST endpoints as th
 
 | # | Module | Est. Time |
 | --- | --- | --- |
-| 1 | [Signing up for Oracle Autonomous Database](1-sign-up-atp.md) | 5 min |
+| 1 | [Signing up for an APEX Workspace](1-sign-up-apex.md) | 5 min |
 | 2 | [REST Enabling Database Objects](2-rest-enabling.md) | 10 min |
 | 3 | [Defining Web Sources](3-defining-web-source.md) | 10 min |
 | 4 | [Creating Pages](4-creating-pages.md) | 15 min |
