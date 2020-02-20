@@ -1,6 +1,9 @@
-# Module 1: Signing up for Oracle Autonomous Database
+# Module 1: Signing up for an APEX Workspace
 
 Oracle Application Express (APEX) is a feature of Oracle Database, including the Autonomous Data Warehouse (ADW) and Autonomous Transaction Processing (ATP) services. To start, you will need to create an ATP instance and then configure an APEX workspace within your new service. 
+
+## Background
+Oracle APEX is installed into the Orcle Database.
 
 ### **Part 1**: Acquire an Oracle Cloud trial account
 
@@ -92,6 +95,6 @@ When you first access APEX you will need to log in as an APEX Instance Administr
 
     ![](images/1/log-in-to-workspace.png)
     
-### Summary
+### **Summary**
 
 This completes the lab setup. At this point, you know how to create a new Autonomous Transaction Processing instance and create an APEX workspace within it. [Click here to navigate to Module 2](2-create-table.md)
