@@ -189,7 +189,7 @@ Similarly, the Employees report shows numerical values rather than names.
 
     ![](images/5/runtime-form.png)
 
-### Summary
+### **Summary**
 This completes Module 5 and the lab. You now know how to define List of Values against REST endpoints and then utilize those within an application.
 
 ### **Learn More** - *Useful Links*

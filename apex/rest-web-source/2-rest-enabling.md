@@ -212,6 +212,6 @@ Alternatively, you could go to SQL Workshop > RESTful Services and REST enabled 
     
     *{Note: Depending on your browser you may just see the raw JSON document rather than the formatted output displayed above.}*
 
-### Summary
+### **Summary**
 This completes Module 2. You now know how to REST enable database objects include all of the necessary handlers. [Click here to navigate to Module 3](3-defining-web-source.md)
 

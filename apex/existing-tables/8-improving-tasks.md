@@ -172,7 +172,7 @@ The Tasks Calendar page shows numerous tasks, however, there is no way to direct
     
     If you update the Name, Start Date or End Date and click **Apply Changes** on the Project Task form page, the changes will be reflected immediately in the calendar.
 
-### Summary
+### **Summary**
 
 This completes Module 8 and the lab. You now know how to create a Shared Component, improve a Faceted Search page, and link a Calendar page that refreshes after a record is updated.
 

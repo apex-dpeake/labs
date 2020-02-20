@@ -54,6 +54,6 @@ Reviewing the facets, you will notice that Status is down the page and you can c
 
     ![](images/3/finished-search.png)   
 
-### Summary
+### **Summary**
 
 This completes Module 3. You now know how to enhance a faceted search page and have been introduced to Page Designer. [Click here to navigate to Module 4](4-improving-the-report-and-form.md)

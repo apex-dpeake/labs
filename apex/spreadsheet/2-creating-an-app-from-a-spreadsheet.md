@@ -63,6 +63,6 @@ The Data Load wizard has created a new table and populated that table with the r
 
     ![](images/2/new-app.png)
 
-### Summary
+### **Summary**
 
 This completes Module 2. You now know how to create an application from a spreadsheet by either dragging and dropping a file or loading sample data for training purposes. [Click here to navigate to Module 3](3-improving-the-faceted-search.md)

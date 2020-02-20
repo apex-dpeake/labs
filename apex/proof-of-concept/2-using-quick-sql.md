@@ -229,5 +229,5 @@ At this stage you have created a list of SQL statements. However, you first need
 
     *{Note: If you do not see 217 statements processed then return to Quick SQL and click _Generate SQL_, resave the script and then run it again. If you do not see 217 successful, then review the errors displayed in Feedback within the results.}*
 
-### Summary
+### **Summary**
 This completes Module 2. You now know how to utilize Quick SQL to build complex data structures, complete with sample data. [Click here to navigate to Module 3](3-create-app.md)

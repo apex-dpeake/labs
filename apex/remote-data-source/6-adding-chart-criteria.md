@@ -107,7 +107,7 @@ To ensure the value from the item can be used it must be set in session state. R
 
     ![](images/6/final-runtime.png)
 
-### Summary
+### **Summary**
 This completes Module 6 and the lab. In this module you learnt how to create items, define Dynamic Actions, and refresh regions based on user input fields.
 
 ### **Learn More** - *Useful Links*

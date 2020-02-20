@@ -166,6 +166,6 @@ This same LOV is used on the Links form page so we can reuse it there as well.
 
     ![](images/6/form-runtime.png)    
    
-### Summary
+### **Summary**
 
 This completes Module 6. You now know how to enhance report and list of value queries to display related details. [Click here to navigate to Module 7](7-improving-links.md) 

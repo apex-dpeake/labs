@@ -98,5 +98,5 @@ Given the URL Endpoint used above, the _Create Web Source_ operation determined 
 
 ![](images/3/all-operations.png)
 
-### Summary
+### **Summary**
 This completes Module 3. You now know how to define a Web Source module within an application and add the required operations for full CRUD operations. [Click here to navigate to Module 4](4-creating-pages.md)

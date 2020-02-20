@@ -137,7 +137,7 @@ your email correctly}*
     ![](images/1/apex-builder.png)
 
 
-### Summary
+### **Summary**
 
 This completes the lab setup. At this point, you know how to create an APEX Workspace and you are ready to start building amazing apps, fast.
 

@@ -195,6 +195,6 @@ Now that you have added all the pages, it is time to generate the app and review
 
     ![](images/3/runtime-app.png)
 
-### Summary
+### **Summary**
 
 This completes Module 3. You now know how to create an application, with numerous different page types, based on existing database objects. [Click here to navigate to Module 4](4-regenerate-app.md)

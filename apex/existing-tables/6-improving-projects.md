@@ -216,7 +216,7 @@ Currently a Completed Date can be entered on any project. However, it would grea
 
     ![](images/6/finished-form.png)
 
-### Summary
+### **Summary**
 
 This completes Module 6. You now know how to add additional pages to your application, link pages together, modify how items are displayed, and define client-side interactivity declaratively. [Click here to navigate to Module 7](7-improving-milestones.md)
 

@@ -137,7 +137,7 @@ If you review the Links form page, by clicking an edit icon on the report, you w
     On the Links report page, click the URL for the record you just updated.    
     It should bring up the main APEX site in a new browser tab or window.
    
-### Summary
+### **Summary**
 
 This completes Module 7 and the lab. You now know how to change a URL value to be a link to a separate browser tab or window. 
 
