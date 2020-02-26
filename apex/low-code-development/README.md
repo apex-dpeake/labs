@@ -37,7 +37,7 @@ Welcome to the Low Code Development with Oracle Autonomous Database hands-on lab
   
    ![](images/0/lab-contents.png)
    
-### Downloads
+### **Downloads**
 
 [Click here](lowcodedev-app.sql) to download the completed application. 
 
