@@ -26,7 +26,7 @@ Each lab is completely independent and does not rely on any other lab, therefore
 
 
 ###Archived Tutorials
-| Release | Module | Est. Time |
+| APEX Release | Module | Est. Time |
 | --- | --- | --- |
 | APEX 19.2 | [Building an App from a Spreadsheet](./apex-192/spreadsheet) | 45 min |
 | APEX 19.2 | [Building an App on Existing Tables](./apex-192/existing-tables) | 75 min |
