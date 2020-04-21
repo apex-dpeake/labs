@@ -25,7 +25,7 @@ Each lab is completely independent and does not rely on any other lab, therefore
 ***To log issues***, click here to go to the [github oracle repository](https://github.com/oracle/learning-library/issues/new) issue submission form.
 
 
-###Archived Tutorials
+### Archived Tutorials
 | APEX Release | Module | Est. Time |
 | --- | --- | --- |
 | APEX 19.2 | [Building an App from a Spreadsheet](./apex-192/spreadsheet) | 45 min |
